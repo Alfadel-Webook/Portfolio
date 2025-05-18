@@ -1,5 +1,9 @@
 # Portfolio
 
+<img width="1000" alt="Screenshot 1446-11-20 at 4 49 35 PM" src="https://github.com/user-attachments/assets/225227c9-595d-4fff-a677-c4415f823f8b" />
+
+
+
 This is my personal portfolio site, built with React and Tailwind CSS. It features my projects, skills, education, and a contact form. The site supports both light and dark mode.
 
 ## Features
