@@ -4,7 +4,7 @@ import '../index.css';
 
 export default function Header({ theme, toggleTheme }) {
   return (
-    <header className="flex justify-between items-center px-8 py-4 bg-gray-100 dark:bg-neutral-900
+    <header className="flex justify-between items-center px-8 py-4 bg-gray-300 dark:bg-neutral-900
      text-black dark:text-white transition-colors duration-300">
       <div className="text-xl font-bold">Abdulaziz Alfadel</div>
       <nav>
