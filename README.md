@@ -1,6 +1,6 @@
 # Portfolio
 
-<img width="100" alt="Screenshot 1446-11-20 at 4 49 35 PM" src="https://github.com/user-attachments/assets/225227c9-595d-4fff-a677-c4415f823f8b" />
+<img width="1000" alt="Screenshot 1446-11-20 at 4 49 35 PM" src="https://github.com/user-attachments/assets/225227c9-595d-4fff-a677-c4415f823f8b" />
 
 
 
