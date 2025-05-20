@@ -49,7 +49,7 @@ export default function ProjectsSection() {
 
   return (
     <section id="projects" className="mb-6">
-      <h2 className="text-4xl p-8 font-bold mb-6">Projects</h2>
+      <h2 className="text-4xl p-8 text-center font-bold mb-4">Projects</h2>
       <div className="flex flex-wrap justify-center gap-8">
         {projects.map((project) => (
         <div

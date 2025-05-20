@@ -39,7 +39,7 @@ export default function SkillsSection() {
           <div
             key={i}
             className="bg-white dark:bg-neutral-700 text-gray-900 dark:text-gray-100 
-                       px-6 py-6 rounded shadow-md hover:shadow-lgtext-sm font-bold flex-[1_1_120px] max-w-xs 
+                       px-6 py-6 rounded shadow-md text-center hover:shadow-lgtext-sm font-bold flex-[1_1_120px] max-w-xs 
                        transition-transform duration-300 hover:-translate-y-1 
                        hover:bg-gray-50 dark:hover:bg-neutral-800 flex items-center justify-center"
           >
